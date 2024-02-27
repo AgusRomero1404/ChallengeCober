@@ -7,7 +7,7 @@ _Las consignas a resolver eran:_
 #96e7ff 
 
 2. En  section-close reemplazar 
-<p class="ui-text-intro">Lorem ipsum dolor sit amet consectetur.</p>
+class="ui-text-intro">Lorem ipsum dolor sit amet consectetur.
 por un script JS que muestre el día y la fecha real en el formato (Lunes, 25 de marzo de 2024) 
 
 3. Luego de section-close agregar una sección de suscripción similar a la de la imagen adjunta.
