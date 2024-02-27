@@ -12,7 +12,7 @@ enviarMail = async (correoUsuario) => {
 
   const message = {
     from: "enviodemailpruebatecnicacober@gmail.com",
-    to: "romeroagustin1404@gmail.com",
+    to: "admin@grupocober.online",
     subject: "Nueva suscripción",
     text: `El correo electronico: ${correoUsuario} se ha suscrito con exito `,
   };
