@@ -3,10 +3,10 @@ const app = express();
 const path = require('path');
 const enviarMail = require('./enviarMail');
 
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, '..', 'public')));
 app.use(express.json());
 
-app.post('/enviar-correo', async (req, res) => {
+app.post('/enviar-correo', async (req, res) => {    
     try {
         const correoUsuario = req.body.correo;
         await enviarMail(correoUsuario);
