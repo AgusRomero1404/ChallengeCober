@@ -13,7 +13,7 @@ por un script JS que muestre el día y la fecha real en el formato (Lunes, 25 de
 3. Luego de section-close agregar una sección de suscripción similar a la de la imagen adjunta.
 el form de suscripción debe ser funcional y enviar un email notificando una nueva suscripción a: 
 admin@grupocober.online 
-
+https://drive.google.com/file/d/1PVhdVhA9dV1s8d2K-FucJk3AkqXhPtJE/view?usp=drive_link
 
 ## Uso de la aplicacion
 
